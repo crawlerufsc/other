@@ -1,0 +1,3 @@
+[submodule "Crawler-SNA"]
+	path = Crawler-SNA
+	url = https://github.com/ngoeldner/Crawler-SNA
